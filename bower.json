@@ -1,0 +1,22 @@
+{
+  "name": "tap-room-angular2-solo",
+  "description": "#### Tap Room App in Angular2, August 11, 2016",
+  "main": "gulpfile.js",
+  "authors": [
+    "Maldon <maldonmeehan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/maldonmeehan/tap-room-angular2-solo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.14.1"
+  }
+}
