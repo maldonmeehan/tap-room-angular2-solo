@@ -1,9 +1,9 @@
 # EPICODUS STUDENT PROJECT
 ## JavaScript | Angular JS
 
-#### Tap Room App in Angular2, August 9, 2016
+#### Tap Room App in Angular2, August 11, 2016
 
-#### By _**Niki Garner & Maldon Meehan, Epicodus**_
+#### By _**Maldon Meehan, Epicodus**_
 
 ## Description
 
